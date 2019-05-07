@@ -1,0 +1,26 @@
+{
+  "name": "alexamaster-autovote",
+  "version": "1.0.0",
+  "description": "通过puppeteer，实现alexamaster自动刷Good Votes",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxxzst/alexamaster-autovote.git"
+  },
+  "keywords": [
+    "pupprteer",
+    "alexamaster"
+  ],
+  "author": "XueSong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxxzst/alexamaster-autovote/issues"
+  },
+  "homepage": "https://github.com/dxxzst/alexamaster-autovote#readme",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
