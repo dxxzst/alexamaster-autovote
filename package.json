@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dxxzst/alexamaster-autovote#readme",
   "dependencies": {
-    "puppeteer": "^1.15.0"
+    "puppeteer": "^1.20.0",
+    "terminal-image": "^0.2.0"
   }
 }
