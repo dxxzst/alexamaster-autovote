@@ -4,7 +4,7 @@
 有关alexamaster的介绍，可以[看此文章](https://www.youneed.win/alexamaster基本介绍，闲置vps挂机赚钱.html)。
 本项目除了刷Good Votes外，还可以执行其他的所有任务，包括Facebook点赞、YouTube视频播放。下面讲述了本项目的具体使用方法
  
-2020.02.11更新：视频经常出问题，已经禁止。暂时只刷Good Votes、Facebook点赞。
+2020.02.11更新：视频经常出问题，已经暂时停止此功能。目前只刷Good Votes、Facebook点赞。
  
 ## 运行环境
 
