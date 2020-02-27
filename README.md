@@ -38,7 +38,7 @@ Centos上安装：
 - 克隆本项目代码 `clone https://github.com/dxxzst/alexamaster-autovote.git`
 - 在lib/pub.js文件中修改你的账号user、密码password，并确定chromePah是否正确
 - 进入目录 `cd alexamaster-autovote`
-- 安装资源 `npm install`
+- 安装资源 `npm install` 如果失败， 可以尝试执行`sudo npm install --unsafe-perm=true`
 - 启动服务 `npm run` 或 `node index.js`
 
 程序运行后，会输出运行的log，内容为已经执行的任务
